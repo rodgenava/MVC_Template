@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8997C-8E57-488C-A698-A1236145613A}|ASPdotNetCoreWebApp.infrastructure\\ASPdotNetCoreWebApp.Infrastructure.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.infrastructure\\repositories\\dms_rcrpdfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8997C-8E57-488C-A698-A1236145613A}|ASPdotNetCoreWebApp.infrastructure\\ASPdotNetCoreWebApp.Infrastructure.csproj|solutionrelative:aspdotnetcorewebapp.infrastructure\\repositories\\dms_rcrpdfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.application\\services\\dms_rcrpdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|solutionrelative:aspdotnetcorewebapp.application\\services\\dms_rcrpdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89444C19-58F6-4965-8F96-2C891422FB78}|ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.domain\\entities\\dms_rcrpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89444C19-58F6-4965-8F96-2C891422FB78}|ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj|solutionrelative:aspdotnetcorewebapp.domain\\entities\\dms_rcrpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8997C-8E57-488C-A698-A1236145613A}|ASPdotNetCoreWebApp.infrastructure\\ASPdotNetCoreWebApp.Infrastructure.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.infrastructure\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8997C-8E57-488C-A698-A1236145613A}|ASPdotNetCoreWebApp.infrastructure\\ASPdotNetCoreWebApp.Infrastructure.csproj|solutionrelative:aspdotnetcorewebapp.infrastructure\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8997C-8E57-488C-A698-A1236145613A}|ASPdotNetCoreWebApp.infrastructure\\ASPdotNetCoreWebApp.Infrastructure.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.infrastructure\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8997C-8E57-488C-A698-A1236145613A}|ASPdotNetCoreWebApp.infrastructure\\ASPdotNetCoreWebApp.Infrastructure.csproj|solutionrelative:aspdotnetcorewebapp.infrastructure\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89444C19-58F6-4965-8F96-2C891422FB78}|ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.domain\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89444C19-58F6-4965-8F96-2C891422FB78}|ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj|solutionrelative:aspdotnetcorewebapp.domain\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|solutionrelative:aspdotnetcorewebapp.application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.application\\intefaces\\idms_rcrpdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|solutionrelative:aspdotnetcorewebapp.application\\intefaces\\idms_rcrpdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.application\\irepositories\\idms_rcrpdfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|solutionrelative:aspdotnetcorewebapp.application\\irepositories\\idms_rcrpdfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\aspdotnetcorewebapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\aspdotnetcorewebapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.application\\intefaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|solutionrelative:aspdotnetcorewebapp.application\\intefaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp.application\\irepositories\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829013DD-B510-4004-954D-5B053737FF8F}|ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj|solutionrelative:aspdotnetcorewebapp.application\\irepositories\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|c:\\users\\rnava\\myproject\\mytestproject\\asp.net core web app\\aspdotnetcorewebapp\\aspdotnetcorewebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A61FCF00-685A-4B61-A280-E80A0ACCA968}|ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj|solutionrelative:aspdotnetcorewebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:09:12.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Controllers\\HomeController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:13:44.145Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Program.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:14:21.115Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T09:41:05.777Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DMS_RCRpdfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.infrastructure\\Repositories\\DMS_RCRpdfRepository.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.infrastructure\\Repositories\\DMS_RCRpdfRepository.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.infrastructure\\Repositories\\DMS_RCRpdfRepository.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.infrastructure\\Repositories\\DMS_RCRpdfRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:23:01.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DMS_RCRpdf.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Domain\\Entities\\DMS_RCRpdf.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.Domain\\Entities\\DMS_RCRpdf.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Domain\\Entities\\DMS_RCRpdf.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.Domain\\Entities\\DMS_RCRpdf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:07:38.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:27:20.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:13:31.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:27:22.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DMS_RCRpdfService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\Services\\DMS_RCRpdfService.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.Application\\Services\\DMS_RCRpdfService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\Services\\DMS_RCRpdfService.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.Application\\Services\\DMS_RCRpdfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:18:00.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\appsettings.json",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T06:14:39.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.infrastructure\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.infrastructure\\Repositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.infrastructure\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.infrastructure\\Repositories\\MemberRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:04:01.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.infrastructure\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.infrastructure\\DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.infrastructure\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.infrastructure\\DbContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:42:58.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Domain\\Member.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.Domain\\Member.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Domain\\Member.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.Domain\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:45:39.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.Application\\Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\Services\\MemberService.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.Application\\Services\\MemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:55:41.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDMS_RCRpdfService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\Intefaces\\IDMS_RCRpdfService.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.Application\\Intefaces\\IDMS_RCRpdfService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\Intefaces\\IDMS_RCRpdfService.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.Application\\Intefaces\\IDMS_RCRpdfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:16:47.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDMS_RCRpdfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\IRepositories\\IDMS_RCRpdfRepository.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.Application\\IRepositories\\IDMS_RCRpdfRepository.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\IRepositories\\IDMS_RCRpdfRepository.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.Application\\IRepositories\\IDMS_RCRpdfRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:18:49.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ASPdotNetCoreWebApp",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T08:29:44.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\IRepositories\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.Application\\IRepositories\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\IRepositories\\IMemberRepository.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.Application\\IRepositories\\IMemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:45:18.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\Intefaces\\IMemberService.cs",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp.Application\\Intefaces\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\Intefaces\\IMemberService.cs",
+              "RelativeToolTip": "ASPdotNetCoreWebApp.Application\\Intefaces\\IMemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:54:32.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:27:45.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:27:48.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:27:52.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T06:28:39.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "jquery.min.map",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-28T06:30:05.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\appsettings.Development.json",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T06:14:41.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:27:33.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASPdotNetCoreWebApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ASPdotNetCoreWebApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:27:31.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
