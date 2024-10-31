@@ -34,8 +34,8 @@ namespace ASPdotNetCoreWebApp.Controllers
                     new ClaimsPrincipal(claimsIdentity),
                     new AuthenticationProperties
                     {
-                        //IsPersistent = true, // Keeps the user logged in after closing the browser
-                        IsPersistent = false, 
+                        IsPersistent = true, // Keeps the user logged in after closing the browser
+                        //IsPersistent = false, 
                     });
 
                 return RedirectToAction("Index", "Home");

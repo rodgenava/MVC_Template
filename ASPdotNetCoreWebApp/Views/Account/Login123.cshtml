@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form asp-action="Login" method="post">
+    <div>
+        <label>Username</label>
+        <input type="text" name="username" required />
+    </div>
+    <div>
+        <label>Password</label>
+        <input type="password" name="password" required />
+    </div>
+    <button type="submit">Log in</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <p style="color: red">Invalid login attempt.</p>
+}

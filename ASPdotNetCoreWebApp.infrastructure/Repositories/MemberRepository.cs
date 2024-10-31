@@ -14,12 +14,12 @@ namespace ASPdotNetCoreWebApp.Infrastructure
 
         public static List<Member> lstMembers = new List<Member>()
         {
-           new Member{  Id =1 ,Name= "Kirtesh Shah", Type ="G" , Address="Vadodara"},
-           new Member{  Id =2 ,Name= "Mahesh Shah", Type ="S" , Address="Dabhoi"},
-           new Member{  Id =3 ,Name= "Nitya Shah", Type ="G" , Address="Mumbai"},
-           new Member{  Id =4 ,Name= "Dilip Shah", Type ="S" , Address="Dabhoi"},
-           new Member{  Id =5 ,Name= "Hansa Shah", Type ="S" , Address="Dabhoi"},
-           new Member{  Id =6 ,Name= "Mita Shah", Type ="G" , Address="Surat"}
+           new Member{  Id =1 ,Name= "Kirtesh Shah", Email ="myemail@email.com" , Age=23, Password="Vadodara"},
+           new Member{  Id =2 ,Name= "Mahesh Shah", Email ="Smyemail@email.com" , Age=37, Password="Dabhoi"},
+           new Member{  Id =3 ,Name= "Nitya Shah", Email ="Gmyemail@email.com" , Age=22, Password="Mumbai"},
+           new Member{  Id =4 ,Name= "Dilip Shah", Email ="Smyemail@email.com" , Age=25, Password="Dabhoi"},
+           new Member{  Id =5 ,Name= "Hansa Shah", Email ="Smyemail@email.com" , Age=23, Password="Dabhoi"},
+           new Member{  Id =6 ,Name= "Mita Shah", Email ="Gmyemail@email.com" , Age=31, Password="Surat"}
         };
 
         public async Task<IEnumerable<Member>> GetMembersAsync()
