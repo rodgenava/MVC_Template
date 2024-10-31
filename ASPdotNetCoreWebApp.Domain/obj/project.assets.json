@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj",
       "projectName": "ASPdotNetCoreWebApp.Domain",
-      "projectPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj",
+      "projectPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj",
       "packagesPath": "C:\\Users\\rnava\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Domain\\obj\\",
+      "outputPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rnava\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2764,11 +2764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj",
       "projectName": "ASPdotNetCoreWebApp",
-      "projectPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj",
+      "projectPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.csproj",
       "packagesPath": "C:\\Users\\rnava\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp\\obj\\",
+      "outputPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rnava\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2786,14 +2786,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj": {
-              "projectPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj"
+            "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj": {
+              "projectPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp.Application\\ASPdotNetCoreWebApp.Application.csproj"
             },
-            "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj"
+            "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp.Domain\\ASPdotNetCoreWebApp.Domain.csproj"
             },
-            "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.infrastructure\\ASPdotNetCoreWebApp.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\ASP.Net Core Web App\\ASPdotNetCoreWebApp\\ASPdotNetCoreWebApp.infrastructure\\ASPdotNetCoreWebApp.Infrastructure.csproj"
+            "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp.infrastructure\\ASPdotNetCoreWebApp.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\MVC_Template\\MVC_Template\\ASPdotNetCoreWebApp.infrastructure\\ASPdotNetCoreWebApp.Infrastructure.csproj"
             }
           }
         }
