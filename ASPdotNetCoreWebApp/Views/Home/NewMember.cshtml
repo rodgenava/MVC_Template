@@ -1,0 +1,31 @@
+﻿@model ASPdotNetCoreWebApp.MemberViewModel
+@{
+    ViewData["Title"] = "New Member";
+}
+
+<h1>NewMember</h1>
+
+<form asp-action="SubmitContactForm" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" type="email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Age"></label>
+        <textarea asp-for="Age"></textarea>
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="Password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <button type="submit">Submit</button>
+    <button type="reset">Reset</button>
+</form>
