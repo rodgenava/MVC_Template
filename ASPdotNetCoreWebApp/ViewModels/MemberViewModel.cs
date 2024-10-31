@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ASPdotNetCoreWebApp.Domain
+namespace ASPdotNetCoreWebApp
 {
-    public class Member
+    public class MemberViewModel
     {
         public int Id { get; set; }
 
@@ -23,4 +23,3 @@ namespace ASPdotNetCoreWebApp.Domain
         public string Password { get; set; }
     }
 }
-

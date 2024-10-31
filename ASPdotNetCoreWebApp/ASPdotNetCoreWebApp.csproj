@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.18" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ASPdotNetCoreWebApp.Application\ASPdotNetCoreWebApp.Application.csproj" />
     <ProjectReference Include="..\ASPdotNetCoreWebApp.Domain\ASPdotNetCoreWebApp.Domain.csproj" />
     <ProjectReference Include="..\ASPdotNetCoreWebApp.infrastructure\ASPdotNetCoreWebApp.Infrastructure.csproj" />

@@ -13,3 +13,19 @@ C:\Users\rnava\MyProject\MyTestProject\ASP.Net Core Web App\ASPdotNetCoreWebApp\
 C:\Users\rnava\MyProject\MyTestProject\ASP.Net Core Web App\ASPdotNetCoreWebApp\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\refint\ASPdotNetCoreWebApp.Application.dll
 C:\Users\rnava\MyProject\MyTestProject\ASP.Net Core Web App\ASPdotNetCoreWebApp\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ASPdotNetCoreWebApp.Application.pdb
 C:\Users\rnava\MyProject\MyTestProject\ASP.Net Core Web App\ASPdotNetCoreWebApp\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ref\ASPdotNetCoreWebApp.Application.dll
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\bin\Debug\net6.0\ASPdotNetCoreWebApp.Application.deps.json
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\bin\Debug\net6.0\ASPdotNetCoreWebApp.Application.dll
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\bin\Debug\net6.0\ASPdotNetCoreWebApp.Application.pdb
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\bin\Debug\net6.0\ASPdotNetCoreWebApp.Domain.dll
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\bin\Debug\net6.0\ASPdotNetCoreWebApp.Domain.pdb
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ASPdotNetCoreWebApp.Application.csproj.AssemblyReference.cache
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ASPdotNetCoreWebApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ASPdotNetCoreWebApp.Application.AssemblyInfoInputs.cache
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ASPdotNetCoreWebApp.Application.AssemblyInfo.cs
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ASPdotNetCoreWebApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ASPdotNetCoreWebApp.Application.sourcelink.json
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ASPdotNe.B69FFB14.Up2Date
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ASPdotNetCoreWebApp.Application.dll
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\refint\ASPdotNetCoreWebApp.Application.dll
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ASPdotNetCoreWebApp.Application.pdb
+C:\Users\rnava\MyProject\MyTestProject\MVC_Template\MVC_Template\ASPdotNetCoreWebApp.Application\obj\Debug\net6.0\ref\ASPdotNetCoreWebApp.Application.dll

@@ -35,6 +35,40 @@ namespace ASPdotNetCoreWebApp.Controllers
         {
             return View();
         }
+        public IActionResult NewMember()
+        {
+            return View();
+        }
+        
+        [HttpPost]
+        public IActionResult SubmitContactForm(MemberViewModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                foreach (var error in ModelState)
+                {
+                    foreach (var err in error.Value.Errors)
+                    {
+                        Console.WriteLine($"Error in field {error.Key}: {err.ErrorMessage}");
+                    }
+                }
+            }
+
+            if (ModelState.IsValid)
+            {
+                // Process form submission (e.g., save data to database, send email)
+                return RedirectToAction("Success");
+            }
+
+            // If the model is not valid, return to the form view with validation messages
+            return View("Index", model);
+        }
+
+        public IActionResult Success()
+        {
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
